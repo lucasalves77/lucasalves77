@@ -3,7 +3,7 @@
 <h3 align="center">Um desenvolvedor front-end, minha paixão é criar.</h3>
 <!--<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif">-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasalves77&label=Profile% 20views&color=0e75b6&style=flat" alt="lucasalves77" /> </p>
+<p align="left"> <h2>lucasalves77</h2> </p>
 
 - 🌱 Atualmente estou aprendendo **react**
 
