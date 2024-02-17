@@ -20,15 +20,15 @@
 <a href="https://dev.to/lucasalves7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lucasalves7" height="30" width="40" /></a>
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <div style="display: inline_block">
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" >
-  <img align="center" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" >
-  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-4DA167?style=for-the-badge&logo=figma&logoColor=white" >
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" >
+  <img align="center" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white" >
+  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" >
   <img align="center" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" >
-  <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FF8A31?style=for-the-badge&logo=linux&logoColor=white" >
-  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" >
-  <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" >
-  <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" >
+  <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" >
+  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" >
+  <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white" >
+  <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" >
 </div>
 <br/>
 
-![Lucas alves GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasalves77&show_icons=true&theme=tokyonight)
+![Lucas alves GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasalves77&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=1098F7&border_color=1098F7)
