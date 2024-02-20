@@ -9,7 +9,7 @@
 
 -  Pergunte sobre **Inteligencia artificial**
 
--  Como entrar em contato comigo **lucasalvesdarocha007@gmail.com**
+-  Como entrar em contato comigo **lucasalves77@proton.me**
 
 <h3 align="left">Conecte-se comigo:</h3>
 
