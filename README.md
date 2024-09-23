@@ -3,7 +3,7 @@
 <h3 align="center">Desenvolvedor full-stack.</h3>
 <!--<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif">-->
 
-<p align="left"> <h2>lucasalves77</h2> </p>
+
 
 -  Atualmente estou aprendendo **Python**
 
