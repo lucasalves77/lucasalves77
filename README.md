@@ -7,7 +7,7 @@
 
 -  Atualmente estou aprendendo **Kotlin**
 
--  Pergunte sobre **desenvolvimento Android**
+-  Pergunte sobre **Desenvolvimento Android**
 
 -  Como entrar em contato comigo **lucasalves77@proton.me**
 
