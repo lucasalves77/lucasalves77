@@ -1,4 +1,4 @@
-<!--<img align="right" alt="Coding" width="100%"   src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif">-->
+<img align="right" alt="Coding" width="100%"   src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif">
 <h1 color="white" align="center">Ola, meu nome é Lucas.</h1>
 <h3 align="center">Desenvolvedor full-stack</h3>
 <!--<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif">-->
