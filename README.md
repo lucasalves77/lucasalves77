@@ -5,9 +5,9 @@
 
 
 
--  Atualmente estou aprendendo **Python**
+-  Atualmente estou aprendendo **Kotlin**
 
--  Pergunte sobre **Inteligencia artificial**
+-  Pergunte sobre **desenvolvimento Android**
 
 -  Como entrar em contato comigo **lucasalves77@proton.me**
 
