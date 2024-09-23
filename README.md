@@ -21,7 +21,7 @@
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <div style="display: inline_block">
   <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-000000?&style=for-the-badge&logo=kotlin&logoColor=1098F7" >
-  <img align="center" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=1098F7" >
+  <img align="center" alt="TensorFlow" src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=1098F7" >
   <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=1098F7" >
   <img align="center" alt="PyCharm" src="https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=android-studio&logoColor=1098F7" >
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=1098F7" >
