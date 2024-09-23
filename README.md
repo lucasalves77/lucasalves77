@@ -14,7 +14,6 @@
 <h3 align="left">Conecte-se comigo:</h3>
 
 <a href="https://www.linkedin.com/in/lucas-alvesz/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="lucas alves7"/></a>
 <a href="https://stackoverflow.com/users/16329447/lucasalves7" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="lucas alves7"  /></a> 
 <a href="https://dev.to/lucasalves7" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white" alt="lucasalves7"  /></a>
