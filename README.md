@@ -21,7 +21,7 @@
 <a href="https://dev.to/lucasalves7" target="blank"><img align="center" src="https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=reddit&logoColor=1098F7" alt="lucasalves7"  /></a>
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <div style="display: inline_block">
-  <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" >
+  <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-000000?&style=for-the-badge&logo=kotlin&logoColor=1098F7" >
   <img align="center" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=1098F7" >
   <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=1098F7" >
   <img align="center" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=1098F7" >
